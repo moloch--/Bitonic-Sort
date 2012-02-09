@@ -1,4 +1,7 @@
 Bitonic Sort
 ---------------
+This is an example implementation of a bitonic sorting algorithm, using a hyber cube to calculate node partners.  
 
-
+Notes
+-------------
+* Runs on OpenMPI CPU clusters
