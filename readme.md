@@ -6,3 +6,4 @@ Notes
 -------------
 * Runs on OpenMPI CPU clusters (requires boost-mpi)
 * Node partners are calculated using a hyper-cube
+* Video of the program sorting 16,000,000 random nubmers https://www.youtube.com/watch?v=C1YBOE60Hwo
