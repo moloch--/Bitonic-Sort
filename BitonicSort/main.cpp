@@ -35,7 +35,7 @@ void checkSort(Sorter &machine);
 
 int main(int argc, char* argv[]) {
 	Sorter sortMachine;
-    startSorting(sortMachine);
+	startSorting(sortMachine);
 	if (sortMachine.isHeadNode()) {
 		std::cout << "\033[1m[*] Sort completed in " << timer.elapsed() << " second(s)\033[0m" << std::endl;
 		checkSort(sortMachine);
